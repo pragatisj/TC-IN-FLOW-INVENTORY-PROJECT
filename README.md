@@ -33,4 +33,4 @@ Manual Execution: Executed test cases manually and documented actual vs. expecte
 Key Outcomes
 Improved the stability and accuracy of inventory management processes.
 Enhanced the user experience by identifying and resolving critical bugs.
-Verified that all modules worked together seamlessly to provide a cohesive inventory management experience.
+Verified that all modules worked together seamlessly to provide a cohesive inventory management experience
